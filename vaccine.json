@@ -1,0 +1,108 @@
+<<<<<<< HEAD
+{"total":237,"phase":[{"key":"Preclinical","label":"Studi preclinici","description":"Non ancora in studi clinici con soggetti umani","candidates":186},{"key":"PhaseOne","label":"Fase 1","description":"Studi sulla sicurezza in scala ridotta","candidates":50},{"key":"PhaseTwo","label":"Fase 2","description":"Studi estesi sulla sicurezza","candidates":35},{"key":"PhaseThree","label":"Fase 3","description":"Studi su larga scala","candidates":23},{"key":"Limited","label":"Approvazione limitata","description":"Approvato per uso limitato","candidates":5},{"key":"Approved","label":"Approvati","description":"Approvato per uso umano","candidates":8}],"candidates":[{"source":"https://clinicaltrials.gov/ct2/show/NCT04368728","phase":"Phase III/Approved","organization":"BioNTech/Fosun Pharma/Pfizer","type":"RNA-based","status":"Active, not recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04368728"},{"source":"http://www.chictr.org.cn/showprojen.aspx?proj=56651","phase":"Phase III/Approved","organization":"Beijing Institute of Biological Products/Sinopharm","type":"Inactivated Virus","status":"Completed","status_url":"http://www.chictr.org.cn/showprojen.aspx?proj=56651"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04470427","phase":"Phase III/Approved","organization":"Moderna/NIAID","type":"RNA-based","status":"Active, not recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04470427"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04456595","phase":"Phase III/Approved","organization":"Sinovac","type":"Inactivated Virus","status":"Active, not recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04456595"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04530396","phase":"Phase III/Approved","organization":"Gamaleya Research Institute/Health Ministry Russia","type":"Non-Replicating Viral Vector","status":"Active, not recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04530396"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04526990","phase":"Phase III/Approved","organization":"CanSino Biological Inc./Beijing Institute of Biotechnology","type":"Non-Replicating Viral Vector","status":"Recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04526990"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04516746","phase":"Phase III/Approved","organization":"University of Oxford/AstraZeneca","type":"Non-Replicating Viral Vector","status":"Recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04516746"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04527575","phase":"Phase III/Approved","organization":"Vector Institute","type":"Protein Subunit","status":"Active, not recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04527575"},{"source":"http://www.chictr.org.cn/showprojen.aspx?proj=56651","phase":"Phase III/Limited approval","organization":"Wuhan Institute of Biological Products/Sinopharm","type":"Inactivated Virus","status":"Completed","status_url":"http://www.chictr.org.cn/showprojen.aspx?proj=56651"},{"source":"http://ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=48057","phase":"Phase III/Limited approval","organization":"Bharat Biotech","type":"Inactivated Virus","status":"Completed","status_url":"http://ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=48057"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04505722","phase":"Phase III/Limited approval","organization":"Janssen Pharmaceutical Companies","type":"Non-Replicating Viral Vector","status":"Active, not recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04505722"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04611802","phase":"Phase III","organization":"Novavax","type":"Protein Subunit","status":"Recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04611802"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04646590","phase":"Phase III","organization":"Anhui Zhifei Longcom Biopharmaceutical","type":"Protein Subunit","status":"Recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04646590"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04659239","phase":"Phase III","organization":"Chinese Academy of Medical Sciences","type":"Inactivated Virus","status":"Enrolling by invitation","status_url":"https://clinicaltrials.gov/ct2/show/NCT04659239"},{"source":"https://www.clinicaltrials.gov/ct2/show/NCT04691908","phase":"Phase III","organization":"Research Institute for Biological Safety Problems, Rep of Kazakhstan","type":"Inactivated Virus","status":"Enrolling by invitation","status_url":"https://www.clinicaltrials.gov/ct2/show/NCT04691908"},{"source":"http://ctri.nic.in/Clinicaltrials/showallp.php?mid1=45306&EncHid=&userName=Zydus","phase":"Phase III","organization":"Cadila Healthcare Ltd.","type":"DNA based","status":"Completed","status_url":"http://ctri.nic.in/Clinicaltrials/showallp.php?mid1=45306&EncHid=&userName=Zydus"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04636697","phase":"Phase II/III","organization":"Medicago Inc.","type":"VLP","status":"Recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04636697"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04655625","phase":"Phase II/III","organization":"Osaka University/AnGes/Takara Bio","type":"DNA based","status":"Recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04655625"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04652102","phase":"Phase II/III","organization":"Curevac","type":"RNA-based","status":"Recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04652102"},{"source":"https://clinicaltrials.gov/ct2/show/NCT04672395","phase":"Phase II/III","organization":"Clover Biopharmaceuticals Inc./GSK/Dynavax","type":"Protein Subunit","status":"Not yet recruiting","status_url":"https://clinicaltrials.gov/ct2/show/NCT04672395"}]}
+=======
+{
+    "total": 177,
+    "phase": [
+        {
+            "key": "Preclinical",
+            "description": "Not yet in human trials",
+            "candidates": 143
+        },
+        {
+            "key": "PhaseOne",
+            "description": "Small-scale safety trials",
+            "candidates": 23
+        },
+        {
+            "key": "PhaseTwo",
+            "description": "Expanded safety trials",
+            "candidates": 13
+        },
+        {
+            "key": "PhaseThree",
+            "description": "Large-scale trials",
+            "candidates": 8
+        },
+        {
+            "key": "Approved",
+            "description": "Approved for human use",
+            "candidates": 1
+        }
+    ],
+    "candidates": [
+        {
+            "source": "https://sputnikvaccine.com/",
+            "phase": "Approved for early use",
+            "organization": "Gamaleya Research Institute/Health Ministry Russia",
+            "type": "Non-Replicating Viral Vector",
+            "status": "Limited",
+            "status_url": "https://sputnikvaccine.com/"
+        },
+        {
+            "source": "http://www.isrctn.com/ISRCTN89951424",
+            "phase": "Phase III",
+            "organization": "University of Oxford/AstraZeneca",
+            "type": "Non-Replicating Viral Vector",
+            "status": "Recruiting",
+            "status_url": "http://www.isrctn.com/ISRCTN89951424"
+        },
+        {
+            "source": "https://clinicaltrials.gov/ct2/show/NCT04456595",
+            "phase": "Phase III",
+            "organization": "Sinovac",
+            "type": "Inactivated Virus",
+            "status": "Recruiting",
+            "status_url": "https://clinicaltrials.gov/ct2/show/NCT04456595"
+        },
+        {
+            "source": "http://www.chictr.org.cn/showprojen.aspx?proj=56651",
+            "phase": "Phase III",
+            "organization": "Wuhan Institute of Biological Products/Sinopharm",
+            "type": "Inactivated Virus",
+            "status": "Recruiting",
+            "status_url": "http://www.chictr.org.cn/showprojen.aspx?proj=56651"
+        },
+        {
+            "source": "http://www.chictr.org.cn/showprojen.aspx?proj=56651",
+            "phase": "Phase III",
+            "organization": "Beijing Institute of Biological Products/Sinopharm",
+            "type": "Inactivated Virus",
+            "status": "Recruiting",
+            "status_url": "http://www.chictr.org.cn/showprojen.aspx?proj=56651"
+        },
+        {
+            "source": "https://clinicaltrials.gov/ct2/show/NCT04470427",
+            "phase": "Phase III",
+            "organization": "Moderna/NIAID",
+            "type": "RNA-based",
+            "status": "Recruiting",
+            "status_url": "https://clinicaltrials.gov/ct2/show/NCT04470427"
+        },
+        {
+            "source": "https://clinicaltrials.gov/ct2/show/NCT04368728",
+            "phase": "Phase III",
+            "organization": "BioNTech/Fosun Pharma/Pfizer",
+            "type": "RNA-based",
+            "status": "Recruiting",
+            "status_url": "https://clinicaltrials.gov/ct2/show/NCT04368728"
+        },
+        {
+            "source": "https://clinicaltrials.gov/ct2/show/NCT04526990",
+            "phase": "Phase III",
+            "organization": "CanSino Biological Inc./Beijing Institute of Biotechnology",
+            "type": "Non-Replicating Viral Vector",
+            "status": "Not yet recruiting",
+            "status_url": ""
+        },
+        {
+            "source": "https://clinicaltrials.gov/ct2/show/NCT04505722",
+            "phase": "Phase III",
+            "organization": "Janssen Pharmaceutical Companies",
+            "type": "Non-Replicating Viral Vector",
+            "status": "Not yet recruiting",
+            "status_url": ""
+        }
+    ]
+}
+>>>>>>> 7d33216468b5e9b5eb307088f7b259ceadaa26de
